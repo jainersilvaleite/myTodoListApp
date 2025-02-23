@@ -1,5 +1,5 @@
 # myTodoListApp
-Mais um projeto em que procuro por meus atuais conhecimentos sobre Kotlin, Jetpack Compose e desenvolvimento de aplicativos, consistindo em uma simples lista de afazeres.
+Mais um projeto em que procuro colocar meus atuais conhecimentos sobre Kotlin, Jetpack Compose e desenvolvimento de aplicativos em prática, consistindo em uma simples lista de afazeres.
 
 ## Contém
 - ViewModel e UiState
