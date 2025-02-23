@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyToDoList</string>
+    <string name="homeScreenTitle">Minhas Tarefas</string>
+    <string name="newTask_hint">Botão de adicionar nova tarefa</string>
+    <string name="noTasks_hint">Sem tarefas no momento.</string>
+    <string name="taskCheck_hint">Marcar %s como concluída.</string>
+    <string name="taskPriority_hint">Prioridade: %s</string>
+    <string name="highPriority_hint">Alta</string>
+    <string name="mediumPriority_hint">Média</string>
+    <string name="lowPriority_hint">Baixa</string>
+    <string name="checkedTask_hint">Tarefa Concluída</string>
+    <string name="deleteTask_hint">Deletar %s</string>
+    <string name="editTask_hint">Editar %s</string>
+    <string name="closeTask_hint">Fechar %s</string>
+    <string name="editTaskDialog_hint">Editar tarefa</string>
+    <string name="editTaskConfirmation_hint">Confirmar edição de %s</string>
+    <string name="newTaskDialog_hint">Nova tarefa</string>
+    <string name="closeEditTask_hint">Cancelar edição de %s</string>
+    <string name="closeNewTask_hint">Cancelar criação de tarefa</string>
+    <string name="taskTitleTextField_label">Título da tarefa</string>
+    <string name="taskDescriptionTextField_label">Descrição da tarefa</string>
+    <string name="taskPriorityOptions_hint">Prioridade</string>
+</resources>

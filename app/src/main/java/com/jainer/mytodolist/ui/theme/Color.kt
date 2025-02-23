@@ -1,0 +1,70 @@
+package com.jainer.mytodolist.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val high_priority_task = Color(252, 136, 136)
+val on_high_priority_task = Color(134, 0, 0)
+val medium_priority_task = Color(252, 173, 136)
+val on_medium_priority_task = Color(140, 41, 0)
+val checked_task = Color(141, 240, 205)
+val on_checked_task = Color(0, 114, 73)
+
+val md_theme_light_primary = Color(143, 76, 56)
+val md_theme_light_onPrimary = Color(255, 255, 255)
+val md_theme_light_primaryContainer = Color(255, 219, 209)
+val md_theme_light_onPrimaryContainer = Color(114, 53, 35)
+val md_theme_light_secondary = Color(119, 87, 78)
+val md_theme_light_onSecondary = Color(255, 255, 255)
+val md_theme_light_secondaryContainer = Color(255, 219, 209)
+val md_theme_light_onSecondaryContainer = Color(255, 219, 209)
+val md_theme_light_tertiary = Color(108, 93, 47)
+val md_theme_light_onTertiary = Color(255, 255, 255)
+val md_theme_light_tertiaryContainer = Color(245, 225, 167)
+val md_theme_light_onTertiaryContainer = Color(83, 70, 25)
+val md_theme_light_error = Color(186, 26, 26)
+val md_theme_light_errorContainer = Color(255, 218, 214)
+val md_theme_light_onError = Color(255, 255, 255)
+val md_theme_light_onErrorContainer = Color(147, 0, 10)
+val md_theme_light_background = Color(255, 248, 246) // Surface
+val md_theme_light_onBackground = Color(58,50,44) // On Surface
+val md_theme_light_surface = Color(232, 214, 210) // Surface Container || Surface Container Low-Highest
+val md_theme_light_onSurface = Color(35, 25, 23)
+val md_theme_light_surfaceVariant = Color(232, 214, 210) // Surface Dim || Surface Bright || Surface Container Low-Highest
+val md_theme_light_onSurfaceVariant = Color(83, 67, 63)
+val md_theme_light_outline = Color(133, 115, 110)
+val md_theme_light_inverseOnSurface = Color(255, 237, 232)
+val md_theme_light_inverseSurface = Color(57, 46, 43)
+val md_theme_light_inversePrimary = Color(255, 181, 160)
+val md_theme_light_surfaceTint = Color(255, 248, 246) // Surface Bright || Surface Dim || Surface Container Low-Highest
+val md_theme_light_outlineVariant = Color(216, 194, 188)
+val md_theme_light_scrim = Color(0, 0, 0)
+
+val md_theme_dark_primary = Color(255, 181, 160)
+val md_theme_dark_onPrimary = Color(86, 31, 15)
+val md_theme_dark_primaryContainer = Color(114, 53, 35)
+val md_theme_dark_onPrimaryContainer = Color(255, 219, 209)
+val md_theme_dark_secondary = Color(231, 189, 178)
+val md_theme_dark_onSecondary = Color(68, 42, 34)
+val md_theme_dark_secondaryContainer = Color(93, 64, 55)
+val md_theme_dark_onSecondaryContainer = Color(255, 219, 209)
+val md_theme_dark_tertiary = Color(216, 197, 141)
+val md_theme_dark_onTertiary = Color(59, 47, 5)
+val md_theme_dark_tertiaryContainer = Color(83, 70, 25)
+val md_theme_dark_onTertiaryContainer = Color(245, 225, 167)
+val md_theme_dark_error = Color(255, 180, 171)
+val md_theme_dark_errorContainer = Color(147, 0, 10)
+val md_theme_dark_onError = Color(105, 0, 5)
+val md_theme_dark_onErrorContainer = Color(255, 218, 214)
+val md_theme_dark_background = Color(26, 17, 15) // Surface
+val md_theme_dark_onBackground = Color(241, 223, 218) // On Surface
+val md_theme_dark_surface = Color(39, 29, 27) // Surface Container || Surface Container Low-Highest
+val md_theme_dark_onSurface = Color(241, 223, 218)
+val md_theme_dark_surfaceVariant = Color(26, 17, 15) // Surface Dim || Surface Bright || Surface Container Low-Highest
+val md_theme_dark_onSurfaceVariant = Color(216, 194, 188)
+val md_theme_dark_outline = Color(160, 140, 135)
+val md_theme_dark_inverseOnSurface = Color(57, 46, 43)
+val md_theme_dark_inverseSurface = Color(241, 223, 218)
+val md_theme_dark_inversePrimary = Color(143, 76, 56)
+val md_theme_dark_surfaceTint = Color(143, 76, 56) // Surface Bright || Surface Dim || Surface Container Low-Highest
+val md_theme_dark_outlineVariant = Color(160, 140, 135)
+val md_theme_dark_scrim = Color(0, 0, 0)
